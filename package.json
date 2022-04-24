@@ -1,0 +1,36 @@
+{
+    "name": "rfldllql-theme",
+    "displayName": "rfldllql-theme",
+    "description": "The personal theme made for me by me but you can download this too if you like",
+    "author": {
+        "email": "rafael@dellaquila.dev",
+        "name": "Rafael Dell'Aquila",
+        "url": "https://dellaquila.dev"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "https://github.com/rafaeldellaquila/rfldllql-theme/blob/master/assets/rfldllqltheme.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tfldllql Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/rfldllql theme-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#1e1d2a",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rafaeldellaquila/rfldllql-theme"
+    },
+    "homepage": "https://github.com/rafaeldellaquila/rfldllql-theme/blob/master/README.md"
+}
