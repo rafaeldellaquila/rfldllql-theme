@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tfldllql Color Theme",
+                "label": "Rfldllql Color Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/rfldllql theme-color-theme.json"
             }
