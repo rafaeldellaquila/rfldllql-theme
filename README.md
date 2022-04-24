@@ -1,8 +1,8 @@
 # Rfldllql color theme for [Visual Studio Code](http://code.visualstudio.com)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://github.com/rafaeldellaquila/rfldllql-theme/blob/master/LICENSE)
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/rafaeldellaquila.rfldllql-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=rafaeldellaquila.rfldllql-color-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/rafaeldellaquila.rfldllql-color-theme.svg)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
+[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/rafaeldellaquila.rfldllql-theme.svg)](https://marketplace.visualstudio.com/items?itemName=rafaeldellaquila.rfldllql-color-theme)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/rafaeldellaquila.rfldllql-theme.svg)](https://marketplace.visualstudio.com/items?itemName=artlaman.chalice-icon-theme)
 
 A charming purple Theme made for me but if you liked download it too
 
